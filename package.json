@@ -1,0 +1,41 @@
+{
+  "name": "@alexlit/config-commitlint",
+  "version": "0.0.1",
+  "private": false,
+  "description": "commitlint config",
+  "keywords": [
+    "commitlint",
+    "config"
+  ],
+  "homepage": "https://github.com/alex-lit/config-commitlint#readme",
+  "bugs": {
+    "url": "https://github.com/alex-lit/config-commitlint/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-lit/config-commitlint.git"
+  },
+  "license": "MIT",
+  "author": "Alexey Litovchenko",
+  "maintainers": [
+    "Alexey Litovchenko <alex.lit@outlook.com> (https://alexlit.gitlab.io)"
+  ],
+  "main": ".commitlintrc.js",
+  "files": [
+    ".commitlintrc.js"
+  ],
+  "scripts": {
+    "publish": "./scripts/publish.sh",
+    "semver": "./scripts/semver.sh",
+    "up": "./scripts/up.sh",
+    "version": "./scripts/version.sh"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "conventional-changelog-cli": "^2.1.1",
+    "husky": "^4.3.6",
+    "lint-staged": "^10.5.3"
+  },
+  "devDependencies": {}
+}
