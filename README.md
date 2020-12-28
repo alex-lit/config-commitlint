@@ -1,5 +1,8 @@
 # Конфигурация CommitLint
 
+Линтит сообщение коммита а также прогоняет через линтеры код и не дает
+закоммитить если будут найдены ошибки
+
 ## Установка
 
 ```sh
@@ -17,13 +20,24 @@ module.exports = {
 };
 ```
 
-Для автоматического линтинга и исправления кода при коммите cоздайте в `package.json` конфигурацию:
+Добавьте в `package.json` конфигурацию:
 
 ```json
 // package.json
 "husky": {
   "hooks": {
-    "pre-commit": "lint-staged"
+    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+  }
+},
+```
+
+Для автоматического линтинга и исправления кода при коммите добавьте в `package.json` конфигурацию:
+
+```json
+// package.json
+"husky": {
+  "hooks": {
+    "pre-commit": "lint-staged",
   }
 },
 "lint-staged": {
