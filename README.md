@@ -30,18 +30,3 @@ module.exports = {
   }
 },
 ```
-
-Для автоматического линтинга и исправления кода при коммите добавьте в `package.json` конфигурацию:
-
-```json
-// package.json
-"husky": {
-  "hooks": {
-    "pre-commit": "lint-staged",
-  }
-},
-"lint-staged": {
-  "*.{js,ts,vue}": "eslint --fix",
-  "*.{vue,pcss,scss,sass,css}": "stylelint --fix"
-},
-```
