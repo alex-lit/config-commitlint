@@ -1,15 +1,15 @@
-# Конфигурация CommitLint
+# CommitLint Configuration
 
-Линтит сообщение коммита а также прогоняет через линтеры код и не дает
-закоммитить если будут найдены ошибки
+Lines the commit message and also runs the code through the linters and does not
+pass commit if errors are found
 
-## Установка
+## Installation
 
 ```sh
 npm i @alexlit/config-commitlint -D
 ```
 
-## Подключение
+## Connection
 
 ```js
 // .commitlintrc.js
