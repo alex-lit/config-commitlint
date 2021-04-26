@@ -29,6 +29,7 @@
     "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
     "lint:htmllint": "./node_modules/@alexlit/lint-kit/scripts/lint.htmllint.sh",
     "lint:markdownlint": "./node_modules/@alexlit/lint-kit/scripts/lint.markdownlint.sh",
+    "lint:npmlint": "./node_modules/@alexlit/lint-kit/scripts/lint.npmlint.sh",
     "lint:stylelint": "./node_modules/@alexlit/lint-kit/scripts/lint.stylelint.sh",
     "publish": "./node_modules/@alexlit/lint-kit/scripts/publish.sh",
     "semver": "./node_modules/@alexlit/lint-kit/scripts/semver.sh",
@@ -42,6 +43,6 @@
     "husky": "^4.3.8"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^5.4.0"
+    "@alexlit/lint-kit": "^7.0.1"
   }
 }
