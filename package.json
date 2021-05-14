@@ -43,6 +43,6 @@
     "husky": "^4.3.8"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^12.3.1"
+    "@alexlit/lint-kit": "^12.4.0"
   }
 }
