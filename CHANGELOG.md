@@ -1,3 +1,10 @@
+# 2.1.0 (2021-09-29)
+
+### Features
+
+- initial release
+  ([f3f8398](https://github.com/alex-lit/config-commitlint/commit/f3f8398d277e110e8c1f21e98790c809a2d77b87))
+
 # 2.0.0 (2021-08-10)
 
 ### Features
