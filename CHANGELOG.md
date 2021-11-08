@@ -1,3 +1,5 @@
+# [3.0.0](https://github.com/alex-lit/config-commitlint/compare/v2.1.1...v3.0.0) (2021-11-08)
+
 ## [2.1.1](https://github.com/alex-lit/config-commitlint/compare/v2.1.0...v2.1.1) (2021-10-13)
 
 # 2.1.0 (2021-09-29)
