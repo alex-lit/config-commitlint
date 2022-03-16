@@ -1,3 +1,5 @@
+## [5.2.1](https://github.com/alex-lit/config-commitlint/compare/v5.2.0...v5.2.1) (2022-03-16)
+
 # [5.2.0](https://github.com/alex-lit/config-commitlint/compare/v5.1.0...v5.2.0) (2022-02-14)
 
 # [5.1.0](https://github.com/alex-lit/config-commitlint/compare/v5.0.2...v5.1.0) (2022-01-21)
