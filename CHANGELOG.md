@@ -1,18 +1,17 @@
+# 6.5.0 (2023-03-30)
+
+### Features
+
+- initial release
+  ([f3f8398](https://github.com/alex-lit/config-commitlint/commit/f3f8398d277e110e8c1f21e98790c809a2d77b87))
+
 ## [6.4.1](https://github.com/alex-lit/config-commitlint/compare/v6.4.0...v6.4.1) (2023-01-14)
-
-
 
 # [6.4.0](https://github.com/alex-lit/config-commitlint/compare/v6.3.0...v6.4.0) (2023-01-06)
 
-
-
 # [6.3.0](https://github.com/alex-lit/config-commitlint/compare/v6.2.0...v6.3.0) (2022-11-21)
 
-
-
 # [6.2.0](https://github.com/alex-lit/config-commitlint/compare/v6.1.0...v6.2.0) (2022-10-31)
-
-
 
 # [6.1.0](https://github.com/alex-lit/config-commitlint/compare/v6.0.3...v6.1.0) (2022-09-01)
 
