@@ -1,3 +1,5 @@
+## [6.6.1](https://github.com/alex-lit/config-commitlint/compare/v6.6.0...v6.6.1) (2023-05-05)
+
 # [6.6.0](https://github.com/alex-lit/config-commitlint/compare/v6.5.0...v6.6.0) (2023-04-25)
 
 # 6.5.0 (2023-03-30)
