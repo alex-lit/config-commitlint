@@ -1,3 +1,8 @@
+## 8.0.0 (2023-09-05)
+
+- chore: preparing for version update
+  ([6b0b5e7](https://github.com/alex-lit/config-commitlint/commit/6b0b5e7))
+
 # [7.1.0](https://github.com/alex-lit/config-commitlint/compare/v7.0.2...v7.1.0) (2023-08-16)
 
 ## [7.0.2](https://github.com/alex-lit/config-commitlint/compare/v7.0.1...v7.0.2) (2023-08-04)
