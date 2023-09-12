@@ -1,3 +1,8 @@
+## 8.1.0 (2023-09-12)
+
+- chore: preparing for version update
+  ([f41c2e2](https://github.com/alex-lit/config-commitlint/commit/f41c2e2))
+
 ## 8.0.0 (2023-09-05)
 
 - chore: preparing for version update
