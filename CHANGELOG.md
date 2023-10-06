@@ -1,3 +1,8 @@
+## <small>8.1.1 (2023-10-06)</small>
+
+- chore: preparing for version update
+  ([de6dd52](https://github.com/alex-lit/config-commitlint/commit/de6dd52))
+
 ## 8.1.0 (2023-09-12)
 
 - chore: preparing for version update
